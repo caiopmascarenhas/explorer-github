@@ -18,8 +18,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
-Podemos considerar este projeto como sendo divido em três partes:
-1. Front End (pasta explorer-github)
+Segue a orientação abaixo:
+
+1. yarn add || npm i (Instalação do node_modules)
+2. yarn start (Para iniciar a aplicação)
 
 ## 📝 Licença
 
