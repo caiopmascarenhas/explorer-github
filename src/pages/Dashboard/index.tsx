@@ -37,7 +37,7 @@ const Dashboard: React.FC = () => {
     event: FormEvent<HTMLFormElement>,): Promise<void> {
     event.preventDefault();
     if (!newRepo) {
-      setInputError('Digite o autor/nome do repositório')
+      setInputError('Digite o autor/nome do repositório. Ex: facebook/react')
       return;
     }
     try {
@@ -47,7 +47,7 @@ const Dashboard: React.FC = () => {
       setNewRepo('');
       setInputError('');
     } catch (err) {
-      setInputError('Erro na busca por esse repositório')
+      setInputError('Erro na busca por esse repositório. Exemplo para busca facebook/react')
     }
 
   };
