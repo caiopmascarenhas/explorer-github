@@ -5,7 +5,7 @@
 
 ## 💻 Sobre o projeto
 
- Explorer Github - é uma pequena aplicação desenvolvida em REACTJS com ojetivo de consumir a api do Github para trazer os dados referente ao autor e o repositório de seu interesse.
+ Explorer Github - é uma pequena aplicação desenvolvida em REACTJS com objetivo de consumir a api do Github para trazer os dados referente ao autor e o repositório de seu interesse.
 
 
 ## 🛠 Tecnologias
